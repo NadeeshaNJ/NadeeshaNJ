@@ -1,16 +1,35 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NadeeshaNJ/NadeeshaNJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nadeesha%20Jayamanne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Writing%20code,%20building%20robots&descAlignY=58&descSize=16" width="100%"/>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>CSE Undergraduate, University of Moratuwa</sub>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nadeeshajayamanne">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nadeeshanj.23@cse.mrt.ac.lk">
+  <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+<a href="https://nadeeshanj.dev">
+  <img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=550&lines=Writing+code+that+have+a+real+value;Designing+and+building+robots;Learning+something+new+every+day" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&width=800" width="70%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
