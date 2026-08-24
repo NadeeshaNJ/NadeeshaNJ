@@ -26,7 +26,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&width=800" width="70%"/>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=timeGradient&textBg=false&fontColor=886699&animation=scaleIn&section=footer" width="10%"/>
-</div>
