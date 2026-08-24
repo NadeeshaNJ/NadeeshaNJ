@@ -19,9 +19,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=550&lines=Writing+code+that+have+a+real+value;Designing+and+building+robots;Learning+something+new+every+day" />
-
 </div>
 
 <br/>
@@ -31,5 +28,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=timeGradient&textBg=false&fontColor=886699&animation=scaleIn&section=footer" width="100%"/>
 </div>
