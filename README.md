@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nadeesha%20Jayamanne&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Writing%20code,%20building%20robots&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Nadeesha%20Jayamanne&textBg=false&fontColor=BBFFEE&animation=fadeIn" width="100%"/>
 
 <br/>
 
