@@ -18,11 +18,3 @@
   <img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
-<br/><br/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=2&width=800" width="70%"/>
-</div>
