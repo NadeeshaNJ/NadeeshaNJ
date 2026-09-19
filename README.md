@@ -4,7 +4,7 @@
 
 <br/>
 
-<sub>CSE Undergraduate, University of Moratuwa</sub>
+<sub>Computer Science & Engineering Undergraduate, University of Moratuwa</sub>
 
 <br/><br/>
 
